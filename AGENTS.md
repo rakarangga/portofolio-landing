@@ -1,6 +1,6 @@
 # portofolio-landing
 
-Landing page statis portofolio software engineer fiktif (Dita Ayu Prameswari). Konten Markdown → Astro → `dist/` → nginx di Docker. Tanpa backend, database, atau layanan eksternal. Semua konten fiktif.
+Landing page statis portofolio software engineer fiktif (Raras Anindya Wibowo). Konten Markdown → Astro → `dist/` → nginx di Docker. Tanpa backend, database, atau layanan eksternal. Semua konten fiktif.
 
 PRD dan handoff: `docs/prd/REQ-20261013-portofolio-landing/`. Arsitektur: `docs/architecture.md`.
 
